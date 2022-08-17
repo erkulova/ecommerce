@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply text-white bg-[#1d1c1f] rounded-md shadow-md mt-[30px] p-3;
+}
